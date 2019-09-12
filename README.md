@@ -1,7 +1,7 @@
 # happer_movie
 嗨皮电影-客户端
 
-vue-cli3+node+axios+vuex\
+vue-cli3+vue-router+node+axios+vuex\
 better-scroll
 
 接口：
