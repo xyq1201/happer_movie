@@ -20,3 +20,5 @@ http://39.97.33.178
 影院：http://39.97.33.178/api/cinemaList?cityId=10
 
 城市定位：http://39.97.33.178/api/getLocation
+
+
