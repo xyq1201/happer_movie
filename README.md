@@ -2,7 +2,8 @@
 嗨皮电影-客户端
 
 vue-cli3+vue-router+node+axios+vuex\
-better-scroll
+better-scroll\
+无UI框架
 
 接口：
 http://39.97.33.178
